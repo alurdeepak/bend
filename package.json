@@ -1,0 +1,18 @@
+{
+  "name": "novamis-backend",
+  "version": "1.0.0",
+  "description": "NodeJS backend for NovaMIS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "deepak@nova-global.in",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "log4node": "^0.1.6",
+    "moment-timezone": "^0.5.23",
+    "mysql2": "^1.6.1",
+    "nodemon": "^1.18.4"
+  }
+}
